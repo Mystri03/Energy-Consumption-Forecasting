@@ -34,9 +34,9 @@ This project analyzes historical household electricity consumption data to under
 4) Machine Learning & Forecasting
     - Regression-based forecasting models
     - ARIMA/SARIMA time-series modeling
-   - Model evaluation using error metrics and residual analysis
+    - Model evaluation using error metrics and residual analysis
 
 5) Visualization & Reporting
-  - KPI monitoring
-  - Time-based consumption comparison
-  - Insight-driven dashboard development
+    - KPI monitoring
+    - Time-based consumption comparison
+    - Insight-driven dashboard development
