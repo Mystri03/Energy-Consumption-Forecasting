@@ -4,7 +4,7 @@
 
 This project analyzes historical household electricity consumption data to understand usage behavior, detect temporal patterns, and forecast future energy demand. The goal is to bridge raw energy data and decision-making by combining Python-based analytics with interactive Tableau dashboards for clear, actionable insights.
 
-
+The repository also includes an Overview folder that contains key charts and dashboard visuals to provide a quick summary of insights generated from the analysis.
 
 ## 💻 Tools Used
 - Python – Data cleaning, exploratory analysis, feature engineering
