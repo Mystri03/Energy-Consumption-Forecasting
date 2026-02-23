@@ -16,27 +16,27 @@ This project analyzes historical household electricity consumption data to under
 
 ## 🛠 Techniques Applied
 1) Data Preparation & EDA
-  - Data cleaning and handling missing values
-  - Distribution and correlation analysis
-  - Skewness and variance interpretation
-  - Exploratory visual analysis
+    - Data cleaning and handling missing values
+    - Distribution and correlation analysis
+    - Skewness and variance interpretation
+    - Exploratory visual analysis
 
 2) Time Series Analysis
-  - Datetime parsing and feature extraction
-  - Trend and seasonality detection
-  - Temporal pattern identification
+    - Datetime parsing and feature extraction
+    - Trend and seasonality detection
+    - Temporal pattern identification
 
 3) Feature Engineering
-  - Creation of lag features
-  - Time-based variables (hour, day, weekday)
-  - Rolling statistics for short-term behavior analysis
+    -  Creation of lag features
+    - Time-based variables (hour, day, weekday)
+    - Rolling statistics for short-term behavior analysis
 
 4) Machine Learning & Forecasting
-  - Regression-based forecasting models
-  - ARIMA/SARIMA time-series modeling
- - Model evaluation using error metrics and residual analysis
+    - Regression-based forecasting models
+    - ARIMA/SARIMA time-series modeling
+   - Model evaluation using error metrics and residual analysis
 
 5) Visualization & Reporting
-- KPI monitoring
-- Time-based consumption comparison
-- Insight-driven dashboard development
+  - KPI monitoring
+  - Time-based consumption comparison
+  - Insight-driven dashboard development
