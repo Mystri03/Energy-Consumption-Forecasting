@@ -15,26 +15,29 @@ This project analyzes historical household electricity consumption data to under
 - Figma – Dashboard background design and visual layout planning
 
 
-## 🛠 Tools & Techniques
+## 🛠 Techniques Applied
+1️Data Preparation & EDA
+  - Data cleaning and handling missing values
+  - Distribution and correlation analysis
+  - Skewness and variance interpretation
+  - Exploratory visual analysis
 
-- Exploratory Data Analysis (EDA)
-  - Data cleaning
-  - Distribution analysis
-  - Correlation analysis between power metrics
-  - Skewness and kurtosis analysis
-- Statistical Analysis
-  - Descriptive statistics
-  - Variance, distribution shape interpretation
-  - Relationship analysis between energy variables
-  - Time Series Analysis (TSA)
-  - Datetime feature extraction
-  - Trend and seasonality analysis
-- Machine Learning
-  - Regression-based forecasting models
-  - Feature engineering for time-dependent data  
-  - Model evaluation using error metrics and residual interpretation
-- Visualization & Dashboards
-  - KPI monitoring
-  - Time-based trend analysis
-  - Energy usage comparisons
-  - Insight-driven storytelling
+2️⃣ Time Series Analysis
+Datetime parsing and feature extraction
+Trend and seasonality detection
+Temporal pattern identification
+
+3️⃣ Feature Engineering
+Creation of lag features
+Time-based variables (hour, day, weekday)
+Rolling statistics for short-term behavior analysis
+
+4️⃣ Machine Learning & Forecasting
+Regression-based forecasting models
+ARIMA/SARIMA time-series modeling
+Model evaluation using error metrics and residual analysis
+
+5️⃣ Visualization & Reporting
+KPI monitoring
+Time-based consumption comparison
+Insight-driven dashboard development
